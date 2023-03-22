@@ -1,2 +1,2 @@
 # Codes_for_Automation
-Codes Related to Post processing, Automation and special purpose are maintained here.
+Codes for Automation (of simulations, post processing) and special purpose codes (like power curve analysis) are maintained here.
